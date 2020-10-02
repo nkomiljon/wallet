@@ -1,10 +1,9 @@
 package wallet
 
 import (
+	"github.com/nkomiljon/wallet/pkg/types"
 	"errors"
-
 	"github.com/google/uuid"
-	
 )
 
 //ErrPhoneRegistered -- phone already registred
