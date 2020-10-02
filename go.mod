@@ -1,4 +1,4 @@
-module github.com/nkomiljon/wallet
+module github.com/nkomiljon/wallet/v1
 
 go 1.15
 
